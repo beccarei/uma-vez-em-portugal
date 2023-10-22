@@ -4,20 +4,4 @@ date: 2023-10-22
 layout: post
 ---
 
-This is **my very first post**!! I can write
-
-* unnumbered
-* fancy
-* lists
-
-But also
-
-1. numbered
-1. ones
-1. easily
-
-Images
-
-![a gif!](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-And so on...
+<iframe src="https://www.google.com/maps/d/embed?mid=1FgS1kb01Qz2pqaxnbdLWylZsNEg&ehbc=2E312F" width="640" height="480"></iframe>
