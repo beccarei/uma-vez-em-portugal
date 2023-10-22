@@ -11,7 +11,7 @@ We want
 * have fun
 
 And we do not want to start the whole thing unprepared.
-* therefore I am just learning Portuguese
+* therefore I am starting to learn Portuguese
 * we will learn about portuguese history
 * we do a lot of research on the internet
 
