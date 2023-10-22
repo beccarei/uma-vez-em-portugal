@@ -1,15 +1,15 @@
 title: My blog
 description: My very nice blog
-author: "Jorge Sanz"
+author: "Rebecca Ehlers"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+base_url: /uma-vez-em-portugal
+repository: beccarei/uma-vez-em-portugal
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: beccarei
+linkedin_username: rebecca-ehlers-4235b3231
 rss: rss
 
 # Minima: show excerpts in the frontpage
