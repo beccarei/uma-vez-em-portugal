@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: Calorosamente bem-vindos
+list_title: Publicação no blogue
 ---
 
 We want
