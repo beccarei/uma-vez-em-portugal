@@ -1,7 +1,7 @@
 ---
 permalink: /about
 layout: page
-title: About me
+title: Sobre mim
 ---
 
-Die Sonne scheint immer, man muss nur lernen, sie hinter den Wolken zu erkennen.
+O sol brilha sempre, só temos de aprender a reconhecê-lo por detrás das nuvens.
