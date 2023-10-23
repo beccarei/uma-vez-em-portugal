@@ -4,6 +4,8 @@ date: 2023-10-22
 layout: post
 ---
 
-Cromeleque dos Almendres (stone circles):
+# Cromeleque dos Almendres
+
+The stone circles are older then Stonehenge.
 
 * [Almendres - german](https://de.wikipedia.org/wiki/Almendres)
