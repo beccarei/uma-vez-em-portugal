@@ -15,6 +15,8 @@ rss: rss
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 paginate: 5
+paginate_path: "/blog/page:num/"
+
 
 minima:
   date_format: "%Y-%m-%d"
