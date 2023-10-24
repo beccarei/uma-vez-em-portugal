@@ -1,5 +1,5 @@
 ---
-title: "Sétubal"
+title: "Vistas especiais - Sétubal"
 date: 2023-10-24
 layout: post
 ---
