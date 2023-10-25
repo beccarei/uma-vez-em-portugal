@@ -2,6 +2,7 @@
 title: "Vistas especiais - Vila de Rei"
 date: 2023-10-22
 layout: post
+categories: Centro
 ---
 
 # The center of Portugal
