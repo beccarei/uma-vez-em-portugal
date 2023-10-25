@@ -6,6 +6,8 @@ theme: minima
 
 base_url: /uma-vez-em-portugal
 repository: beccarei/uma-vez-em-portugal
+permalink: /:categories/:title/
+
 
 # Minima social links
 github_username: beccarei
