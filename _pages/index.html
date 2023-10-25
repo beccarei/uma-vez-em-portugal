@@ -2,38 +2,23 @@
 permalink: /
 layout: home
 title: Calorosamente bem-vindos
+list_title: Publicação no blogue
 ---
 
-<!-- post list -->
-{% for post in paginator.posts %}
-<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
-{% endfor %}
+We want to
+* go for the first time with the camper
+* drive through Portugal
+* have fun
 
+And we do not want to start the whole thing unprepared.
+* therefore I am starting to learn Portuguese
+* we will learn about portuguese history
+* we do a lot of research on the internet
 
-<!-- pagination -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
+Here we collect our findings.
+Maybe you would like to have a look here as well. 
+Maybe one or the other idea will come up for you. 
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="webjeda">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="/">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+Who knows - maybe one or the other will even contact me.
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
+Whatever your motives are for hanging around here, enjoy your time here.
