@@ -2,6 +2,7 @@
 title: "Vistas especiais - Fonte da Seiceira"
 date: 2023-10-22
 layout: post
+categories: Algarve
 ---
 
 # Water, medicinal and bathing place
