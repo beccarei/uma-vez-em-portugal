@@ -7,7 +7,7 @@ plugins: [jekyll-paginate]
 
 base_url: /uma-vez-em-portugal
 repository: beccarei/uma-vez-em-portugal
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 
 
 # Minima social links
