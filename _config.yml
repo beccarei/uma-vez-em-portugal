@@ -26,6 +26,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/about.md
   - _pages/archive.md
+  - _pages/categories.md
 
 include:
     - _pages
