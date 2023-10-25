@@ -19,8 +19,8 @@ rss: rss
 show_excerpts: true
 
 # Pagination
-paginate: 6
-paginate_path: /page:num/
+paginate: 3
+paginate_path: "page:num"
 
 minima:
   date_format: "%Y-%m-%d"
