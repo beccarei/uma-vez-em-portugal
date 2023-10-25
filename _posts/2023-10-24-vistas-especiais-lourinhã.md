@@ -2,6 +2,7 @@
 title: "Vistas especiais - Lourinhã"
 date: 2023-10-24
 layout: post
+categories: Centro
 ---
 
 #  Um Parque de Dinossauros
