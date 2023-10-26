@@ -2,7 +2,7 @@ title: Uma vez em portugal
 description: Uma viagem por portugal
 author: "Rebecca Ehlers"
 
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins: [jekyll-paginate]
 
 base_url: /uma-vez-em-portugal
