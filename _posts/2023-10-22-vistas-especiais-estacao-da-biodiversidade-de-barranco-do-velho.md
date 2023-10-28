@@ -2,7 +2,8 @@
 title: "Vistas especiais - Estacao da Biodiversidade de Barranco do Velho"
 date: 2023-10-22
 layout: post
-categories: Algarve
+categories: Portugal
+tags: Algarve
 ---
 
 # A Hike through Nature 
