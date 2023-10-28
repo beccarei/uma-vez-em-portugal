@@ -2,6 +2,8 @@
 title: "Praias fluviais em portugal"
 date: 2023-10-22
 layout: post
+categories: Portugal
+tags: praias fluviais
 ---
 
 # Praias  Fluviaias
