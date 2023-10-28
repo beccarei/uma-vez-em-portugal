@@ -2,7 +2,8 @@
 title: "Vistas especiais - Barragem de Montargil"
 date: 2023-10-22
 layout: post
-categories: Alentejo
+categories: Portugal
+tags: Alentejo
 ---
 
 # Barragim de Montargil
