@@ -2,7 +2,8 @@
 title: "Vistas especiais - Sétubal"
 date: 2023-10-24
 layout: post
-categories: Lisboa
+categories: Portugal
+tags: Lisboa
 ---
 
 # Uma das mais longas Praias de Areia da Europa
