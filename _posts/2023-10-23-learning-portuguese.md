@@ -2,6 +2,7 @@
 title: "Learning Portuguese"
 date: 2023-10-23
 layout: post
+categories: Language
 ---
 
 # How do you learn a language?
