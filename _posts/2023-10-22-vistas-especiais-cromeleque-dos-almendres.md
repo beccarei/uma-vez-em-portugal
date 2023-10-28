@@ -2,7 +2,8 @@
 title: "Vistas especiais - Cromeleque dos Almendres"
 date: 2023-10-22
 layout: post
-categories: Alentejo
+categories: Portugal
+tags: Alentejo
 ---
 
 # Cromeleque dos Almendres
