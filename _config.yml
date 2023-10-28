@@ -97,9 +97,9 @@ author:
   email:
   twitter: beccarei
   links:
-    - title:
-      url:
-      icon:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/rebecca-ehlers-4235b3231/
+      icon: fab fa-linkedin-in
 
 # Footer Links
 footer_links:
