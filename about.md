@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 Die Sonne scheint immer, man muss nur lernen, sie hinter den Wolken zu erkennen.
