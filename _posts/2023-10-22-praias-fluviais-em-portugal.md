@@ -19,3 +19,13 @@ Here I collect our notes so that we always have them handy on the way.
 It starts with a collection of river bathing spots in Maps that I found during my research.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1FgS1kb01Qz2pqaxnbdLWylZsNEg&ehbc=2E312F" width="640" height="480"></iframe>
+
+## VagaMundos - a selection with picutures
+
+* [From North to South](https://www.vagamundos.pt/melhores-praias-fluviais-portugal/)
+* [Norte](https://www.vagamundos.pt/praias-fluviais-norte-de-portugal/)
+* [Centro](https://www.vagamundos.pt/praias-fluviais-centro-de-portugal/)
+* [Centro - Albufeira da Barragem de Castelo de Bode](https://www.vagamundos.pt/albufeira-castelo-de-bode-praias/)
+* [Centro - Serra da Estrala](https://www.vagamundos.pt/praias-fluviais-serra-da-estrela/)
+* [Alentejo](https://www.vagamundos.pt/melhores-praias-fluviais-alentejo/)
+
