@@ -29,3 +29,7 @@ It starts with a collection of river bathing spots in Maps that I found during m
 * [Centro - Serra da Estrala](https://www.vagamundos.pt/praias-fluviais-serra-da-estrela/)
 * [Alentejo](https://www.vagamundos.pt/melhores-praias-fluviais-alentejo/)
 
+## Aldeias do Xisto (dark sky reserve) near Góis
+
+*[Dark Sky Reserve Aldeias do Xisto](https://www.aldeiasdoxisto.pt/en/visit-enjoy/leisure-nature/river-beaches/)
+
