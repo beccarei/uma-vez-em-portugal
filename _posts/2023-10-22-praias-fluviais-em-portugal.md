@@ -31,5 +31,5 @@ It starts with a collection of river bathing spots in Maps that I found during m
 
 ## Aldeias do Xisto (dark sky reserve) near Góis
 
-*[Dark Sky Reserve Aldeias do Xisto](https://www.aldeiasdoxisto.pt/en/visit-enjoy/leisure-nature/river-beaches/)
+* [Dark Sky Reserve Aldeias do Xisto](https://www.aldeiasdoxisto.pt/en/visit-enjoy/leisure-nature/river-beaches/)
 
